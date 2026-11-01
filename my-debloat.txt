@@ -1,0 +1,22 @@
+﻿# Custom list for TCL 55P61B - conservative first stage
+# User-requested unused apps
+ch.protonvpn.android
+com.stremio.one
+com.tcl.browser
+
+# TCL ads and promotional content
+com.tcl.waterfall.overseas
+com.tcl.dashboard
+com.tcl.partnercustomizer
+com.tcl.messagebox
+com.tcl.tv.tclhome_passive
+com.tcl.esticker
+com.tcl.guard
+com.tcl.hotelmenu
+
+# Optional TCL free channels (will remain listed but won't play)
+com.tcl.channelplus
+
+# Google feedback / partner setup
+com.google.android.feedback
+com.google.android.partnersetup
